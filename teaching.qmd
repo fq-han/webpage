@@ -1,0 +1,14 @@
+---
+title: "Teaching Experience"
+description: "Teaching experience of Fuqun Han"
+---
+
+## University of California, Los Angeles
+
+**Instructor**
+
+| Course | Terms |
+|---|---|
+| MATH 151A: Applied Numerical Methods I | Fall 2024; Fall 2025 |
+| MATH 151B: Applied Numerical Methods II | Fall 2023; Spring 2024; Fall 2024 |
+| MATH 155: Mathematical Imaging | Winter 2024; Winter 2025; Spring 2025; Spring 2026 |

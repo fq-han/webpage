@@ -1,0 +1,70 @@
+---
+title: "Fuqun Han"
+---
+
+Department of Mathematics, City University of Hong Kong  
+[fuqun.han@cityu.edu.hk](mailto:fuqun.han@cityu.edu.hk)
+
+I am an applied mathematician working on inverse problems, sampling, optimization, and scientific machine learning.
+
+## Work Experience
+
+::: {.entry}
+::: {.entry-main}
+### City University of Hong Kong
+
+Assistant Professor, Department of Mathematics
+:::
+::: {.entry-date}
+July 2026–present
+:::
+:::
+
+::: {.entry}
+::: {.entry-main}
+### University of California, Los Angeles
+
+Hedrick Assistant Adjunct Professor  
+Faculty mentor: Professor Stanley Osher
+:::
+::: {.entry-date}
+August 2023–June 2026
+:::
+:::
+
+## Education
+
+::: {.entry}
+::: {.entry-main}
+### The Chinese University of Hong Kong
+
+**Ph.D. in Mathematics**  
+Supervisor: Professor Jun Zou
+:::
+::: {.entry-date}
+August 2020–June 2023
+:::
+:::
+
+::: {.entry}
+::: {.entry-main}
+### The Chinese University of Hong Kong
+
+**M.Phil. in Mathematics**  
+Supervisor: Professor Jun Zou
+:::
+::: {.entry-date}
+August 2018–July 2020
+:::
+:::
+
+::: {.entry}
+::: {.entry-main}
+### The Chinese University of Hong Kong
+
+**B.Sc. in Mathematics, First Class Honours**
+:::
+::: {.entry-date}
+August 2014–July 2018
+:::
+:::
