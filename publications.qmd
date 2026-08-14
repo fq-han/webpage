@@ -3,7 +3,7 @@ title: "Publications"
 description: "Publications and preprints by Fuqun Han"
 ---
 
-1. Habib Ammari, Yat Tin Chow, and **Fuqun Han**. “Scattering by a Medium with Self-Similar or Fractal Structure.” Manuscript in preparation, 2026.
+1. Habib Ammari, Yat Tin Chow, and **Fuqun Han**. “Scattering by a Medium with Self-Similar or Fractal Structure.” arXiv:2608.12728, 2026.
 
 2. **Fuqun Han** and Wuchen Li. “[A Kernel Formula for Kinetic Fokker–Planck Equations](https://arxiv.org/abs/2608.05770).” arXiv:2608.05770, 2026.
 
