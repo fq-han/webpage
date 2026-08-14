@@ -1,0 +1,108 @@
+:root {
+  --text: #222;
+  --muted: #666;
+  --link: #245b8a;
+  --rule: #d9d9d9;
+}
+
+body {
+  background: #fff;
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--rule);
+  background: #fff;
+}
+
+.navbar-title {
+  color: var(--text) !important;
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link {
+  color: #444 !important;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: var(--link) !important;
+}
+
+#quarto-content main.content {
+  max-width: 850px;
+}
+
+#title-block-header {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 650;
+}
+
+h2 {
+  margin-top: 2.75rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--rule);
+  font-size: 1.45rem;
+  font-weight: 600;
+}
+
+h3 {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+a {
+  color: var(--link);
+}
+
+.entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.entry-main p,
+.entry-date p {
+  margin-bottom: 0;
+}
+
+.entry-date {
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+ol li {
+  margin-bottom: 0.8rem;
+  padding-left: 0.25rem;
+}
+
+.table {
+  margin-top: 1.25rem;
+}
+
+.nav-footer {
+  border-top: 1px solid var(--rule);
+  background: #fff;
+  color: var(--muted);
+}
+
+@media (max-width: 650px) {
+  .entry {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+
+  .entry-date {
+    white-space: normal;
+  }
+}

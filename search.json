@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Habib Ammari, Yat Tin Chow, and Fuqun Han. “Scattering by a Medium with Self-Similar or Fractal Structure.” arXiv:2608.12728, 2026.\nFuqun Han and Wuchen Li. “A Kernel Formula for Kinetic Fokker–Planck Equations.” arXiv:2608.05770, 2026.\nFuqun Han, Stanley Osher, and Wuchen Li. “Convergence of Noise-Free Sampling Algorithms with Regularized Wasserstein Proximals.” Journal of Machine Learning Research 27 (2026): 1–66.\nFuqun Han, Stanley Osher, and Wuchen Li. “Sparse Transformer Architectures via Regularized Wasserstein Proximal Operator with \\(L_1\\) Prior.” arXiv:2510.16356, 2025.\nFuqun Han, Stanley Osher, and Wuchen Li. “Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems.” arXiv:2502.16773, 2025.\nFuqun Han and Kazufumi Ito. “A Weighted Sampling Method for the Inverse Medium Problem with Limited Aperture.” arXiv:2509.14580, 2025.\nFuqun Han, Stanley Osher, and Wuchen Li. “Tensor-Train-Based Sampling Algorithms for Approximating Regularized Wasserstein Proximal Operators.” SIAM/ASA Journal on Uncertainty Quantification 13 (2025): 775–804.\nJianfeng Ning, Fuqun Han, and Jun Zou. “A Direct Sampling Method and Its Integration with Deep Learning for Inverse Scattering Problems with Phaseless Data.” SIAM Journal on Scientific Computing 47 (2025): C343–C368.\nMinxin Zhang, Fuqun Han, Yat Tin Chow, Stanley Osher, and Hayden Schaeffer. “Inexact Proximal Point Algorithms for Zeroth-Order Global Optimization.” arXiv:2412.11485, 2024.\nJianfeng Ning, Fuqun Han, and Jun Zou. “A Direct Sampling-Based Deep Learning Approach for Inverse Medium Scattering Problems.” Inverse Problems 40 (2023): 015005.\nFuqun Han, Yat Tin Chow, and Jun Zou. “A Direct Sampling Method for Simultaneously Recovering Electromagnetic Inhomogeneous Inclusions of Different Nature.” Journal of Computational Physics 470 (2022): 111584.\nFuqun Han, Yat Tin Chow, and Jun Zou. “A Direct Sampling Method for the Inversion of the Radon Transform.” SIAM Journal on Imaging Sciences 14 (2021): 1004–1038.\nFuqun Han, Yat Tin Chow, and Jun Zou. “A Direct Sampling Method for Simultaneously Recovering Inhomogeneous Inclusions of Different Nature.” SIAM Journal on Scientific Computing 43 (2021): A2161–A2189."
+  },
+  {
+    "objectID": "publications.html#research-interests",
+    "href": "publications.html#research-interests",
+    "title": "Publications",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHigh-dimensional sampling, probability flows, and optimal transport, including regularized Wasserstein proximal methods and Fokker–Planck equations.\nInverse problems and computational imaging, with an emphasis on inverse scattering, wave-based sensing, and limited or phaseless measurements.\nScientific machine learning and optimization, including structured generative models, transformer architectures, and derivative-free methods.\nScalable numerical computation using tensor methods, kernel representations, and particle algorithms."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Instructor\n\n\n\n\n\n\n\nCourse\nTerms\n\n\n\n\nMATH 151A: Applied Numerical Methods I\nFall 2024; Fall 2025\n\n\nMATH 151B: Applied Numerical Methods II\nFall 2023; Spring 2024; Fall 2024\n\n\nMATH 155: Mathematical Imaging\nWinter 2024; Winter 2025; Spring 2025; Spring 2026"
+  },
+  {
+    "objectID": "teaching.html#university-of-california-los-angeles",
+    "href": "teaching.html#university-of-california-los-angeles",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Instructor\n\n\n\n\n\n\n\nCourse\nTerms\n\n\n\n\nMATH 151A: Applied Numerical Methods I\nFall 2024; Fall 2025\n\n\nMATH 151B: Applied Numerical Methods II\nFall 2023; Spring 2024; Fall 2024\n\n\nMATH 155: Mathematical Imaging\nWinter 2024; Winter 2025; Spring 2025; Spring 2026"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fuqun Han",
+    "section": "",
+    "text": "Department of Mathematics, City University of Hong Kong\nfuqun.han@cityu.edu.hk\nI am an applied mathematician working on inverse problems, sampling, optimization, and scientific machine learning."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Fuqun Han",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\nCity University of Hong Kong\nAssistant Professor, Department of Mathematics\n\n\nJuly 2026–present\n\n\n\n\nUniversity of California, Los Angeles\nHedrick Assistant Adjunct Professor\nFaculty mentor: Professor Stanley Osher\n\n\nAugust 2023–June 2026"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Fuqun Han",
+    "section": "Education",
+    "text": "Education\n\n\nThe Chinese University of Hong Kong\nPh.D. in Mathematics\nSupervisor: Professor Jun Zou\n\n\nAugust 2020–June 2023\n\n\n\n\nThe Chinese University of Hong Kong\nM.Phil. in Mathematics\nSupervisor: Professor Jun Zou\n\n\nAugust 2018–July 2020\n\n\n\n\nThe Chinese University of Hong Kong\nB.Sc. in Mathematics, First Class Honours\n\n\nAugust 2014–July 2018"
+  }
+]
