@@ -7,8 +7,6 @@ description: "Publications and preprints by Fuqun Han"
 
 2. **Fuqun Han** and Wuchen Li. “A Kernel Formula for Kinetic Fokker–Planck Equations.” arXiv:2608.05770, 2026. [[arXiv](https://arxiv.org/abs/2608.05770)]
 
-3. **Fuqun Han**, Stanley Osher, and Wuchen Li. “Convergence of Noise-Free Sampling Algorithms with Regularized Wasserstein Proximals.” *Journal of Machine Learning Research* 27 (2026): 1–66. [[Journal](https://jmlr.org/papers/v27/24-1560.html)] [[arXiv](https://arxiv.org/abs/2409.01567)]
-
 4. **Fuqun Han**, Stanley Osher, and Wuchen Li. “Sparse Transformer Architectures via Regularized Wasserstein Proximal Operator with $L_1$ Prior.” arXiv:2510.16356, 2025. [[arXiv](https://arxiv.org/abs/2510.16356)]
 
 5. **Fuqun Han**, Stanley Osher, and Wuchen Li. “Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems.” arXiv:2502.16773, 2025. [[arXiv](https://arxiv.org/abs/2502.16773)]
